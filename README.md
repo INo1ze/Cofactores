@@ -2,7 +2,7 @@
 import java.util.Scanner;
 /**
  *
- * @author Diego Lienzo, Angel Morales, Dario Enriquez.
+ * @author Angel Campos, Dario Enriquez, Diego Lienzo.  
  */
 public class Matriz {
     public static void main(String [] args){
@@ -52,7 +52,7 @@ public class MMat{
             }
         }
     }
-    System.out.println("El determinante es: "+ deter);
+    System.out.println("El Determinante de la Matriz es: "+ deter);
 }
     public void impM(){
         for(int i = 0; i < tam; i +=1){
@@ -61,7 +61,7 @@ public class MMat{
             }
             System.out.println("");
         }
-        System.out.println("Campos Morales Angel, Lienzo G. Diego, Enriquez B. Dario");
+        System.out.println("Campos M. Angel, Lienzo G. Diego, Enriquez B. Dario");
 }
 
 }
