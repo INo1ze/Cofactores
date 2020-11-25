@@ -2,7 +2,8 @@
 import java.util.Scanner;
 /**
  *
- * @author Angel Campos, Dario Enriquez, Diego Lienzo.  
+ * @author Angel Campos, Dario Enriquez, Diego Lienzo. 
+ * @author Grupo: 4 Ciencias computacionales. 
  */
 public class Matriz {
     public static void main(String [] args){
@@ -62,6 +63,7 @@ public class MMat{
             System.out.println("");
         }
         System.out.println("Campos M. Angel, Lienzo G. Diego, Enriquez B. Dario");
+        System.out.println("Grupo: 4 Ciencias computacionales.");
 }
 
 }
